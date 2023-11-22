@@ -17,6 +17,9 @@ static int callback(void* data, int argc, char** argv, char** azColName)
     }
   
     printf("\n");
+    printf("\n");
+printf("\n");
+printf("\n");
     return 0;
 }
 
